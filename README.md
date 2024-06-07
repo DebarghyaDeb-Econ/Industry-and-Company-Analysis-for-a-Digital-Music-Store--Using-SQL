@@ -1,7 +1,7 @@
 # Musical-Store-Analysis-Using-SQL
 SQL project to analyze online music store data:
-● Analyzed and derived insights from a database containing information related to a music store. 
-● Gained valuable insights into the store's operations, Customer Segmentation, trends, artist effectiveness, artist growth, 
+1. Analyzed and derived insights from a database containing information related to a music store. 
+2. Gained valuable insights into the store's operations, Customer Segmentation, trends, artist effectiveness, artist growth, 
 customer interest and money spent by customer and helped the store understand its business growth.
 
 Business objectives:
